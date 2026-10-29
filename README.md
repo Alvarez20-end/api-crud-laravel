@@ -666,3 +666,4 @@ Si deseas contribuir, crea una rama independiente, realiza tus cambios y abre un
 **Repositorio:** https://github.com/facultadautodidacta/laravel-angular-mongo
 
 **Objetivo:** proporcionar un entorno reproducible de desarrollo para aplicaciones Laravel + Angular + MongoDB utilizando Docker Compose, tanto en Linux como en Windows.
+# angular
