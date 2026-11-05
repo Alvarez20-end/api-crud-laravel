@@ -1,8 +1,5 @@
+vendor/
+node_modules/
 .env
-.env.*
-!.env.example
-**/vendor/
-**/node_modules/
-**/dist/
-**/.angular/
-**/.DS_Store
+.angular/
+dist/
